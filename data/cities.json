@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,18 +25,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2023-08-25T09:30:29.999Z",
-      "notes": "fdfdf",
-      "position": {
-        "lat": "38.73441332724094",
-        "lng": "-9.158821105957033"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Hanoi",
       "country": "Viet Nam",
       "emoji": "🇻🇳",
@@ -59,6 +35,42 @@
         "lng": "105.78392028808595"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Bac Ninh",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-08-26T06:07:09.948Z",
+      "notes": "Nha Toi",
+      "position": {
+        "lat": "21.178639939612943",
+        "lng": "106.06544494628908"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Thai Binh",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-08-26T06:07:49.884Z",
+      "notes": "",
+      "position": {
+        "lat": "20.440715965894018",
+        "lng": "106.34216308593751"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-26T06:36:52.347Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99870348381778",
+        "lng": "0.01733779907226563"
+      },
+      "id": 98443203
     }
   ]
 }
